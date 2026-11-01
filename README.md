@@ -1,6 +1,6 @@
 # SoulsBorne TCG — Deck Builder
 
-Deck Builder Web : https://souls-tcg-deck.pages.dev/
+Deck Builder Web : https://souls-tcg-deckbuilder.pages.dev/
 
 Web deck builder for SoulsBorne TCG: browse the card collection, build decks and share them with a link.
 
