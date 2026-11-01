@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* Contrast on the darkest surfaces: ink ≥ 15:1, ink-soft ≥ 11:1, ink-muted ≥ 7.5:1, ink-faint ≥ 5.5:1 */
+@theme static {
+  --color-app: #120e0a;
+  --color-bar: #0e0b08;
+  --color-surface: #15110d;
+  --color-raised: #221c15;
+  --color-hover: #2d251c;
+  --color-line: #3a3026;
+  --color-line-strong: #5c4d3b;
+  --color-ink: #f2ede3;
+  --color-ink-soft: #dcd3c2;
+  --color-ink-muted: #b7ab95;
+  --color-ink-faint: #9c907b;
+  --color-gold: #e3cc92;
+  --color-gold-bright: #f3c94e;
+}
+
+:root {
+  --font-title: 'Cinzel', Georgia, serif;
+  --font-body: 'Crimson Pro', Georgia, serif;
+  --radius-ui: 3px;
+  --bg-menu: url('/assets/ui/bg_menu.webp');
+  --surface-bar: linear-gradient(rgba(8, 6, 4, 0.62), rgba(8, 6, 4, 0.62)), var(--bg-menu) center / cover;
+  --surface-panel: linear-gradient(rgba(6, 4, 3, 0.5), rgba(6, 4, 3, 0.5)), var(--bg-menu) center / cover;
+  --surface-popup: linear-gradient(rgba(5, 4, 3, 0.78), rgba(5, 4, 3, 0.78)), var(--bg-menu) center / 900px auto;
+  --rule: url('/assets/ui/divider.webp') center / 100% 100% no-repeat;
+}
+
+html {
+  font-family: var(--font-body);
+  font-weight: 500;
+  background: var(--color-app) var(--bg-menu) center / cover fixed;
+  color-scheme: dark;
+}
+
+/* no double-tap zoom: tapping a card twice adds two copies */
+button,
+select,
+input,
+a {
+  touch-action: manipulation;
+}

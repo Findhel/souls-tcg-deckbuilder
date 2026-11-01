@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Assassin",
+    "label": "Assassin",
+    "color": "#303338",
+    "icon": "/assets/classes/assassin.webp"
+  },
+  {
+    "id": "Dragon Hunter",
+    "label": "Dragon Hunter",
+    "color": "#e8dc9c",
+    "icon": "/assets/classes/dragon-hunter.webp"
+  },
+  {
+    "id": "Prophet",
+    "label": "Prophet",
+    "color": "#d9a61a",
+    "icon": "/assets/classes/prophet.webp"
+  },
+  {
+    "id": "Pyromancer",
+    "label": "Pyromancer",
+    "color": "#e6590d",
+    "icon": "/assets/classes/pyromancer.webp"
+  },
+  {
+    "id": "Sorcerer",
+    "label": "Sorcerer",
+    "color": "#264dd9",
+    "icon": "/assets/classes/sorcerer.webp"
+  },
+  {
+    "id": "SpellBlade",
+    "label": "SpellBlade",
+    "color": "#2f93d6",
+    "icon": "/assets/classes/spellblade.webp"
+  },
+  {
+    "id": "Warrior",
+    "label": "Warrior",
+    "color": "#783069",
+    "icon": "/assets/classes/warrior.webp"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "hero_varre",
+    "class": "Assassin",
+    "hp": 30,
+    "en": {
+      "name": "Varré"
+    },
+    "fr": {
+      "name": "Varré"
+    },
+    "portrait": "/assets/heroes/hero_varre.webp?v=f77eb46b",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_varre-power.webp?v=14677fca",
+      "en": {
+        "name": "Bloodshed",
+        "text": "Apply Hemorrhage 2 to an enemy minion. If it already has Hemorrhage, trigger its Hemorrhage instead."
+      },
+      "fr": {
+        "name": "Bloodshed",
+        "text": "Applique Hémorragie 2 à un serviteur ennemi. S'il a déjà Hémorragie, déclenche son Hémorragie à la place."
+      }
+    }
+  },
+  {
+    "id": "hero_yura",
+    "class": "Assassin",
+    "hp": 30,
+    "en": {
+      "name": "Yura"
+    },
+    "fr": {
+      "name": "Yura"
+    },
+    "portrait": "/assets/heroes/hero_yura.webp?v=d3841f1b",
+    "power": {
+      "cost": 1,
+      "icon": "/assets/heroes/hero_yura-power.webp?v=3af52a34",
+      "en": {
+        "name": "Piercing Fang",
+        "text": "Deal 1 damage to an enemy minion without triggering its Hemorrhage. Combo: Deal 2 damage instead."
+      },
+      "fr": {
+        "name": "Piercing Fang",
+        "text": "Inflige 1 dégât à un serviteur ennemi, sans déclencher son Hémorragie. Combo : Inflige 2 dégâts à la place."
+      }
+    }
+  },
+  {
+    "id": "hero_igon",
+    "class": "Dragon Hunter",
+    "hp": 30,
+    "en": {
+      "name": "Igon"
+    },
+    "fr": {
+      "name": "Igon"
+    },
+    "portrait": "/assets/heroes/hero_igon.webp?v=dbf8d32c",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_igon-power.webp?v=350e9663",
+      "en": {
+        "name": "Dragonhunt",
+        "text": "Deal 2 damage to a random enemy."
+      },
+      "fr": {
+        "name": "Dragonhunt",
+        "text": "Inflige 2 dégâts à un ennemi aléatoire."
+      }
+    }
+  },
+  {
+    "id": "hero_vyke_dh",
+    "class": "Dragon Hunter",
+    "hp": 30,
+    "en": {
+      "name": "Vyke"
+    },
+    "fr": {
+      "name": "Vyke"
+    },
+    "portrait": "/assets/heroes/hero_vyke_dh.webp?v=5ce380f2",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_vyke_dh-power.webp?v=890bc036",
+      "en": {
+        "name": "Draconic Remnant",
+        "text": "Summon a 1/1 Draconic Remnant (Dragon)."
+      },
+      "fr": {
+        "name": "Vestige Draconique",
+        "text": "Invoque un Vestige Draconique 1/1 (Dragon)."
+      }
+    }
+  },
+  {
+    "id": "hero_d",
+    "class": "Prophet",
+    "hp": 30,
+    "en": {
+      "name": "D"
+    },
+    "fr": {
+      "name": "D"
+    },
+    "portrait": "/assets/heroes/hero_d.webp?v=3687f590",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_d-power.webp?v=c28e8a32",
+      "en": {
+        "name": "Sacred Hunt",
+        "text": "Deal 1 damage to an enemy minion. Restore 1 Health to your hero."
+      },
+      "fr": {
+        "name": "Chasse Sacrée",
+        "text": "Inflige 1 dégât à un serviteur ennemi. Restaure 1 PV à votre héros."
+      }
+    }
+  },
+  {
+    "id": "hero_goldmask",
+    "class": "Prophet",
+    "hp": 30,
+    "en": {
+      "name": "Goldmask"
+    },
+    "fr": {
+      "name": "Goldmask"
+    },
+    "portrait": "/assets/heroes/hero_goldmask.webp?v=4eb8526f",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_goldmask-power.webp?v=370fbaf4",
+      "en": {
+        "name": "Pilgrimage",
+        "text": "Summon a 0/2 Pilgrim."
+      },
+      "fr": {
+        "name": "Pèlerinage",
+        "text": "Invoque un Pèlerin 0/2."
+      }
+    }
+  },
+  {
+    "id": "hero_queelign",
+    "class": "Pyromancer",
+    "hp": 30,
+    "en": {
+      "name": "Queelign"
+    },
+    "fr": {
+      "name": "Queelign"
+    },
+    "portrait": "/assets/heroes/hero_queelign.webp?v=f137a402",
+    "power": {
+      "cost": 1,
+      "icon": "/assets/heroes/hero_queelign-power.webp?v=f0b8169d",
+      "en": {
+        "name": "Messmer's Flame",
+        "text": "Apply Burn 2 to an enemy minion."
+      },
+      "fr": {
+        "name": "Flamme de Messmer",
+        "text": "Applique Brûlure 2 à un serviteur ennemi."
+      }
+    }
+  },
+  {
+    "id": "hero_vyke_pyro",
+    "class": "Pyromancer",
+    "hp": 30,
+    "en": {
+      "name": "Vyke"
+    },
+    "fr": {
+      "name": "Vyke"
+    },
+    "portrait": "/assets/heroes/hero_vyke_pyro.webp?v=4aa884a6",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_vyke_pyro-power.webp?v=48738569",
+      "en": {
+        "name": "Eye of Frenzy",
+        "text": "Deal 2 damage to your hero. Draw a card."
+      },
+      "fr": {
+        "name": "Œil de la Frénésie",
+        "text": "Inflige 2 dégâts à votre héros. Piochez une carte."
+      }
+    }
+  },
+  {
+    "id": "hero_sellen",
+    "class": "Sorcerer",
+    "hp": 30,
+    "en": {
+      "name": "Sellen"
+    },
+    "fr": {
+      "name": "Sellen"
+    },
+    "portrait": "/assets/heroes/hero_sellen.webp?v=0bf697d6",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_sellen-power.webp?v=238a5593",
+      "en": {
+        "name": "Glintstone Research",
+        "text": "Add a Glintstone Pebble to your hand."
+      },
+      "fr": {
+        "name": "Glintstone Research",
+        "text": "Ajoute un Glintstone Pebble à votre main."
+      }
+    }
+  },
+  {
+    "id": "hero_seluvis",
+    "class": "Sorcerer",
+    "hp": 30,
+    "en": {
+      "name": "Seluvis"
+    },
+    "fr": {
+      "name": "Seluvis"
+    },
+    "portrait": "/assets/heroes/hero_seluvis.webp?v=a44220c8",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_seluvis-power.webp?v=9c1eb3aa",
+      "en": {
+        "name": "Puppet Spirit",
+        "text": "Summon a 1/1 Marionette Soldier with \"Spellburst: Gain +1 Attack\"."
+      },
+      "fr": {
+        "name": "Puppet Spirit",
+        "text": "Invoque une Marionnette Soldat 1/1 avec « Salve : Gagne +1 ATQ »."
+      }
+    }
+  },
+  {
+    "id": "hero_moongrum",
+    "class": "SpellBlade",
+    "hp": 30,
+    "en": {
+      "name": "Moongrum"
+    },
+    "fr": {
+      "name": "Moongrum"
+    },
+    "portrait": "/assets/heroes/hero_moongrum.webp?v=e293435c",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_moongrum-power.webp?v=164cf051",
+      "en": {
+        "name": "Carian Blade",
+        "text": "Equip a 1/3 Carian Sword. If you already have a weapon, it gains +1 Attack instead (up to 3 times per weapon)."
+      },
+      "fr": {
+        "name": "Lame Carian",
+        "text": "Équipez une Épée Carian 1/3. Si vous avez déjà une arme, elle gagne +1 ATQ à la place (3 fois maximum par arme)."
+      }
+    }
+  },
+  {
+    "id": "hero_rogier",
+    "class": "SpellBlade",
+    "hp": 30,
+    "en": {
+      "name": "Rogier"
+    },
+    "fr": {
+      "name": "Rogier"
+    },
+    "portrait": "/assets/heroes/hero_rogier.webp?v=84f0e1fd",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_rogier-power.webp?v=962684bd",
+      "en": {
+        "name": "Glintblade",
+        "text": "Summon a 1/1 Glintblade with Rush."
+      },
+      "fr": {
+        "name": "Lame pierre d'éclat",
+        "text": "Invoque une Lame pierre d'éclat 1/1 avec Ruée."
+      }
+    }
+  },
+  {
+    "id": "hero_alexander",
+    "class": "Warrior",
+    "hp": 30,
+    "en": {
+      "name": "Alexander"
+    },
+    "fr": {
+      "name": "Alexander"
+    },
+    "portrait": "/assets/heroes/hero_alexander.webp?v=f2af511c",
+    "power": {
+      "cost": 1,
+      "icon": "/assets/heroes/hero_alexander-power.webp?v=13f1c238",
+      "en": {
+        "name": "Warrior's Heart",
+        "text": "Give your hero 2 Armor."
+      },
+      "fr": {
+        "name": "Cœur de Guerrier",
+        "text": "Donne 2 Armure à votre héros."
+      }
+    }
+  },
+  {
+    "id": "hero_nepheli",
+    "class": "Warrior",
+    "hp": 30,
+    "en": {
+      "name": "Nepheli"
+    },
+    "fr": {
+      "name": "Nepheli"
+    },
+    "portrait": "/assets/heroes/hero_nepheli.webp?v=39763a9a",
+    "power": {
+      "cost": 2,
+      "icon": "/assets/heroes/hero_nepheli-power.webp?v=8c993539",
+      "en": {
+        "name": "Storm Cry",
+        "text": "Give a friendly minion +2 Attack this turn."
+      },
+      "fr": {
+        "name": "Cri de Tempête",
+        "text": "Donne +2 ATQ à un serviteur allié ce tour."
+      }
+    }
+  }
+]

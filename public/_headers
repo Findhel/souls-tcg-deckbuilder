@@ -1,0 +1,40 @@
+# Les règles qui matchent une même URL sont fusionnées : un header n'est défini que par une seule règle.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self' https://cloudflareinsights.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+/manifest.webmanifest
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/*.js
+  Cache-Control: public, max-age=31536000, immutable
+/assets/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# Les URLs des arts portent un hash de contenu (?v=)
+/assets/cards/*
+  Cache-Control: public, max-age=604800
+/assets/items/*
+  Cache-Control: public, max-age=604800
+/assets/classes/*
+  Cache-Control: public, max-age=604800
+/assets/heroes/*
+  Cache-Control: public, max-age=604800
+/assets/ui/*
+  Cache-Control: public, max-age=604800
+
+/data/cards.json
+  Cache-Control: public, max-age=300, must-revalidate
+/data/items.json
+  Cache-Control: public, max-age=300, must-revalidate
+/data/tokens.json
+  Cache-Control: public, max-age=300, must-revalidate

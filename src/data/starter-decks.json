@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "assassin_starter",
+    "kind": "starter",
+    "class": "Assassin",
+    "title": "Assassin Starter (Yura)",
+    "hero": "hero_yura",
+    "cards": [
+      {
+        "id": "ash-of-war-swift-slash",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-raptor-of-the-mists",
+        "count": 1
+      },
+      {
+        "id": "highwayman",
+        "count": 2
+      },
+      {
+        "id": "hornsent",
+        "count": 2
+      },
+      {
+        "id": "black-knife-assassin",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-bloodhounds-step",
+        "count": 1
+      },
+      {
+        "id": "nights-cavalry",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-double-slash",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-unsheathe",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-repeating-thrust",
+        "count": 2
+      },
+      {
+        "id": "sheep",
+        "count": 2
+      },
+      {
+        "id": "bloodhound-knight",
+        "count": 2
+      },
+      {
+        "id": "cemetery-shade",
+        "count": 2
+      },
+      {
+        "id": "glintstone-dragon",
+        "count": 1
+      },
+      {
+        "id": "lesser-fingercreeper",
+        "count": 2
+      },
+      {
+        "id": "putride-flesh",
+        "count": 1
+      },
+      {
+        "id": "direwolf",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-quickstep",
+        "count": 2
+      }
+    ],
+    "items": [
+      "couteau-de-lancer",
+      "voile-du-mime",
+      "misericorde-noire"
+    ]
+  },
+  {
+    "id": "assassin_ai",
+    "kind": "adventure",
+    "class": "Assassin",
+    "title": "Assassin AI Deck",
+    "hero": "hero_varre",
+    "cards": [
+      {
+        "id": "nameless-white-mask",
+        "count": 2
+      },
+      {
+        "id": "bloodflame-talons",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-bloody-slash",
+        "count": 1
+      },
+      {
+        "id": "bloody-finger-assassin",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-blood-tax",
+        "count": 2
+      },
+      {
+        "id": "sanguine-noble",
+        "count": 2
+      },
+      {
+        "id": "bloodboon",
+        "count": 2
+      },
+      {
+        "id": "eleonora-violet-bloody-finger",
+        "count": 1
+      },
+      {
+        "id": "bloody-finger-okina-land-of-reeds-samurai",
+        "count": 2
+      },
+      {
+        "id": "juno-hoslow-knight-of-blood-knight-of-blood",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-bloodhounds-step",
+        "count": 2
+      },
+      {
+        "id": "fanged-imp",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-shriek-of-sorrow",
+        "count": 2
+      },
+      {
+        "id": "monstrous-crow",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-piercing-fang",
+        "count": 1
+      },
+      {
+        "id": "mohgwyn-palace",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-scattershot-throw",
+        "count": 2
+      }
+    ],
+    "items": [
+      "couteau-de-lancer",
+      "voile-du-mime",
+      "misericorde-noire"
+    ]
+  },
+  {
+    "id": "dragon_hunter_starter",
+    "kind": "starter",
+    "class": "Dragon Hunter",
+    "title": "DragonHunter Starter",
+    "hero": "hero_igon",
+    "cards": [
+      {
+        "id": "giant-dragonfly",
+        "count": 2
+      },
+      {
+        "id": "azula-beastman",
+        "count": 2
+      },
+      {
+        "id": "dragon-communion-priestess",
+        "count": 2
+      },
+      {
+        "id": "dragon",
+        "count": 2
+      },
+      {
+        "id": "dragonclaw",
+        "count": 2
+      },
+      {
+        "id": "dragonmaw",
+        "count": 1
+      },
+      {
+        "id": "magma-breath",
+        "count": 2
+      },
+      {
+        "id": "magma-wyrm",
+        "count": 2
+      },
+      {
+        "id": "bayles-tyranny",
+        "count": 1
+      },
+      {
+        "id": "putride-flesh",
+        "count": 1
+      },
+      {
+        "id": "leyndell-foot-soldier",
+        "count": 2
+      },
+      {
+        "id": "man-fly",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-igons-drake-hunt",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-sky-shot",
+        "count": 1
+      },
+      {
+        "id": "dragonfire",
+        "count": 2
+      },
+      {
+        "id": "sheep",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-mighty-shot",
+        "count": 2
+      },
+      {
+        "id": "giant-beast-skeleton",
+        "count": 1
+      }
+    ],
+    "items": [
+      "pot-de-givre",
+      "graisse-soporifique",
+      "patte-volaille-doree"
+    ]
+  },
+  {
+    "id": "dragon_hunter_ai",
+    "kind": "adventure",
+    "class": "Dragon Hunter",
+    "title": "Dragon Hunter AI Deck",
+    "hero": "hero_vyke_dh",
+    "cards": [
+      {
+        "id": "ash-of-war-blinkbolt",
+        "count": 2
+      },
+      {
+        "id": "lightning-spear",
+        "count": 2
+      },
+      {
+        "id": "electrocharge",
+        "count": 2
+      },
+      {
+        "id": "lichdragon-fortissax",
+        "count": 1
+      },
+      {
+        "id": "ancient-dragon",
+        "count": 2
+      },
+      {
+        "id": "dragonkin-soldier",
+        "count": 2
+      },
+      {
+        "id": "beastman-shaman",
+        "count": 2
+      },
+      {
+        "id": "knights-lightning-spear",
+        "count": 2
+      },
+      {
+        "id": "dragon",
+        "count": 2
+      },
+      {
+        "id": "banished-knight",
+        "count": 2
+      },
+      {
+        "id": "azula-beastman",
+        "count": 2
+      },
+      {
+        "id": "fat-inquisitor",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-lightning-ram",
+        "count": 2
+      },
+      {
+        "id": "glintstone-dragon",
+        "count": 1
+      },
+      {
+        "id": "guardian",
+        "count": 2
+      },
+      {
+        "id": "electrify-armament",
+        "count": 2
+      }
+    ],
+    "items": [
+      "pot-de-givre",
+      "graisse-soporifique",
+      "patte-volaille-doree"
+    ]
+  },
+  {
+    "id": "prophet_starter",
+    "kind": "starter",
+    "class": "Prophet",
+    "title": "Prophet Starter",
+    "hero": "hero_goldmask",
+    "cards": [
+      {
+        "id": "celebrant",
+        "count": 2
+      },
+      {
+        "id": "urgent-heal",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-shared-order",
+        "count": 2
+      },
+      {
+        "id": "oracle-envoy",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-holy-ground",
+        "count": 2
+      },
+      {
+        "id": "haligtree-soldier",
+        "count": 2
+      },
+      {
+        "id": "wrath-of-gold",
+        "count": 2
+      },
+      {
+        "id": "large-oracle-envoy",
+        "count": 2
+      },
+      {
+        "id": "law-of-regression",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-golden-land",
+        "count": 1
+      },
+      {
+        "id": "blessing-of-the-erdtree",
+        "count": 1
+      },
+      {
+        "id": "land-squirt",
+        "count": 2
+      },
+      {
+        "id": "putride-flesh",
+        "count": 1
+      },
+      {
+        "id": "leyndell-foot-soldier",
+        "count": 2
+      },
+      {
+        "id": "abnormal-stone-cluster",
+        "count": 2
+      },
+      {
+        "id": "ancestor-spirit",
+        "count": 2
+      },
+      {
+        "id": "erdtree-avatar",
+        "count": 2
+      }
+    ],
+    "items": [
+      "fiole-cramoisie",
+      "pierre-chauffante",
+      "benediction-baldaquin"
+    ]
+  },
+  {
+    "id": "prophet_ai",
+    "kind": "adventure",
+    "class": "Prophet",
+    "title": "Prophet AI Deck",
+    "hero": "hero_d",
+    "cards": [
+      {
+        "id": "ash-of-war-sacred-blade",
+        "count": 2
+      },
+      {
+        "id": "protection-of-the-erdtree",
+        "count": 2
+      },
+      {
+        "id": "maliketh-the-black-blade",
+        "count": 1
+      },
+      {
+        "id": "black-blade",
+        "count": 1
+      },
+      {
+        "id": "golden-vow",
+        "count": 2
+      },
+      {
+        "id": "haligtree-soldier",
+        "count": 2
+      },
+      {
+        "id": "abnormal-stone-cluster",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-shared-order",
+        "count": 2
+      },
+      {
+        "id": "needle-knight-leda",
+        "count": 2
+      },
+      {
+        "id": "law-of-regression",
+        "count": 1
+      },
+      {
+        "id": "law-of-causality",
+        "count": 1
+      },
+      {
+        "id": "misbegotten-crusader",
+        "count": 2
+      },
+      {
+        "id": "oracle-envoy",
+        "count": 2
+      },
+      {
+        "id": "living-jar",
+        "count": 2
+      },
+      {
+        "id": "blessing-of-the-erdtree",
+        "count": 1
+      },
+      {
+        "id": "godrick-knight",
+        "count": 1
+      },
+      {
+        "id": "crystal-snail",
+        "count": 2
+      },
+      {
+        "id": "sheep",
+        "count": 2
+      }
+    ],
+    "items": [
+      "fiole-cramoisie",
+      "pierre-chauffante",
+      "benediction-baldaquin"
+    ]
+  },
+  {
+    "id": "pyromancer_starter",
+    "kind": "starter",
+    "class": "Pyromancer",
+    "title": "Pyromancer Starter",
+    "hero": "hero_queelign",
+    "cards": [
+      {
+        "id": "fire-monk",
+        "count": 2
+      },
+      {
+        "id": "flame-sling",
+        "count": 2
+      },
+      {
+        "id": "catch-flame",
+        "count": 1
+      },
+      {
+        "id": "demi-human",
+        "count": 1
+      },
+      {
+        "id": "fire-prelate",
+        "count": 2
+      },
+      {
+        "id": "mountaintops-troll",
+        "count": 1
+      },
+      {
+        "id": "troll",
+        "count": 1
+      },
+      {
+        "id": "rain-of-fire",
+        "count": 2
+      },
+      {
+        "id": "rykards-rancor",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-poisonous-mist",
+        "count": 2
+      },
+      {
+        "id": "noble-presence",
+        "count": 2
+      },
+      {
+        "id": "blackflame-monk",
+        "count": 2
+      },
+      {
+        "id": "fire-knight",
+        "count": 2
+      },
+      {
+        "id": "candle-inquisitor",
+        "count": 2
+      },
+      {
+        "id": "messmer-foot-soldier",
+        "count": 2
+      },
+      {
+        "id": "messmer-soldier",
+        "count": 2
+      },
+      {
+        "id": "basilisk",
+        "count": 2
+      }
+    ],
+    "items": [
+      "pot-de-feu",
+      "baie-de-shabriri",
+      "pot-explosif-geant"
+    ]
+  },
+  {
+    "id": "pyromancer_ai",
+    "kind": "adventure",
+    "class": "Pyromancer",
+    "title": "Pyromancer AI Deck",
+    "hero": "hero_vyke_pyro",
+    "cards": [
+      {
+        "id": "frenzied-villager",
+        "count": 2
+      },
+      {
+        "id": "frienzied-rat",
+        "count": 2
+      },
+      {
+        "id": "the-flame-of-frenzy",
+        "count": 2
+      },
+      {
+        "id": "midra-lord-of-frenzied-flame",
+        "count": 1
+      },
+      {
+        "id": "unendurable-frenzy",
+        "count": 1
+      },
+      {
+        "id": "inescapable-frenzy",
+        "count": 2
+      },
+      {
+        "id": "frenzied-burst",
+        "count": 2
+      },
+      {
+        "id": "howl-of-shabriri",
+        "count": 2
+      },
+      {
+        "id": "flame-chariot",
+        "count": 2
+      },
+      {
+        "id": "direwolf",
+        "count": 2
+      },
+      {
+        "id": "putride-flesh",
+        "count": 1
+      },
+      {
+        "id": "giant-rat",
+        "count": 2
+      },
+      {
+        "id": "madding-hand",
+        "count": 2
+      },
+      {
+        "id": "aging-untouchable",
+        "count": 2
+      },
+      {
+        "id": "wraith-caller",
+        "count": 2
+      },
+      {
+        "id": "giant-bat",
+        "count": 2
+      },
+      {
+        "id": "ancestor-spirit",
+        "count": 1
+      }
+    ],
+    "items": [
+      "pot-de-feu",
+      "baie-de-shabriri",
+      "pot-explosif-geant"
+    ]
+  },
+  {
+    "id": "sorcerer_starter",
+    "kind": "starter",
+    "class": "Sorcerer",
+    "title": "Sorcerer Starter",
+    "hero": "hero_sellen",
+    "cards": [
+      {
+        "id": "glintstone-sorcerer",
+        "count": 2
+      },
+      {
+        "id": "noble-sorcerer",
+        "count": 2
+      },
+      {
+        "id": "glintstone-arc",
+        "count": 2
+      },
+      {
+        "id": "lesser-crystalian",
+        "count": 2
+      },
+      {
+        "id": "lucidity",
+        "count": 2
+      },
+      {
+        "id": "glintstone-icecrag",
+        "count": 2
+      },
+      {
+        "id": "rellanas-twin-moons",
+        "count": 2
+      },
+      {
+        "id": "zamor-ice-storm-spell",
+        "count": 2
+      },
+      {
+        "id": "school-of-graven-mages",
+        "count": 2
+      },
+      {
+        "id": "chanting-winged-dame",
+        "count": 2
+      },
+      {
+        "id": "crystal-snail",
+        "count": 2
+      },
+      {
+        "id": "raya-lucaria-foot-soldier",
+        "count": 2
+      },
+      {
+        "id": "crystal-torrent",
+        "count": 1
+      },
+      {
+        "id": "nox-swordstress",
+        "count": 1
+      },
+      {
+        "id": "glintstone-dragon",
+        "count": 2
+      },
+      {
+        "id": "cannon-of-haima",
+        "count": 2
+      }
+    ],
+    "items": [
+      "eclat-etoile",
+      "fiole-ceruleenne",
+      "souvenir"
+    ]
+  },
+  {
+    "id": "sorcerer_ai",
+    "kind": "adventure",
+    "class": "Sorcerer",
+    "title": "Sorcerer AI Deck",
+    "hero": "hero_seluvis",
+    "cards": [
+      {
+        "id": "marionette-soldier",
+        "count": 2
+      },
+      {
+        "id": "avionette-soldier",
+        "count": 2
+      },
+      {
+        "id": "rancorcall",
+        "count": 2
+      },
+      {
+        "id": "noble-sorcerer",
+        "count": 2
+      },
+      {
+        "id": "shattering-crystal",
+        "count": 2
+      },
+      {
+        "id": "skeleton-mage",
+        "count": 2
+      },
+      {
+        "id": "lucidity",
+        "count": 2
+      },
+      {
+        "id": "ancient-death-of-rancor",
+        "count": 2
+      },
+      {
+        "id": "fleeting-microcosm",
+        "count": 2
+      },
+      {
+        "id": "glintstone-dragon-adula",
+        "count": 1
+      },
+      {
+        "id": "night-maiden",
+        "count": 2
+      },
+      {
+        "id": "crystal-torrent",
+        "count": 1
+      },
+      {
+        "id": "tibias-summons",
+        "count": 1
+      },
+      {
+        "id": "sheep",
+        "count": 2
+      },
+      {
+        "id": "skeletons",
+        "count": 2
+      },
+      {
+        "id": "catacombs-sorcerer",
+        "count": 1
+      },
+      {
+        "id": "gravebird",
+        "count": 2
+      }
+    ],
+    "items": [
+      "eclat-etoile",
+      "fiole-ceruleenne",
+      "souvenir"
+    ]
+  },
+  {
+    "id": "spellblade_starter",
+    "kind": "starter",
+    "class": "SpellBlade",
+    "title": "SpellBlade Starter",
+    "hero": "hero_rogier",
+    "cards": [
+      {
+        "id": "vulgar-militiamen",
+        "count": 2
+      },
+      {
+        "id": "fingercreeper",
+        "count": 2
+      },
+      {
+        "id": "carian-knights-sword",
+        "count": 2
+      },
+      {
+        "id": "red-wolf",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-gravitas",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-ice-spear",
+        "count": 2
+      },
+      {
+        "id": "greatblade-phalanx",
+        "count": 2
+      },
+      {
+        "id": "lorettas-greatbow",
+        "count": 2
+      },
+      {
+        "id": "preceptor-miriam",
+        "count": 2
+      },
+      {
+        "id": "miriams-vanishing",
+        "count": 2
+      },
+      {
+        "id": "catacomb-skeleton",
+        "count": 2
+      },
+      {
+        "id": "nox-monk",
+        "count": 2
+      },
+      {
+        "id": "alabaster-lord",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-spinning-weapon",
+        "count": 1
+      },
+      {
+        "id": "carian-retaliation",
+        "count": 2
+      },
+      {
+        "id": "mad-pumpkin-head-ashes",
+        "count": 1
+      }
+    ],
+    "items": [
+      "eclat-etoile",
+      "pot-de-givre",
+      "crabe-bouilli"
+    ]
+  },
+  {
+    "id": "spellblade_ai",
+    "kind": "adventure",
+    "class": "SpellBlade",
+    "title": "SpellBlade AI Deck",
+    "hero": "hero_moongrum",
+    "cards": [
+      {
+        "id": "miriams-vanishing",
+        "count": 2
+      },
+      {
+        "id": "lazuli-sorcerer",
+        "count": 2
+      },
+      {
+        "id": "scholars-shield",
+        "count": 2
+      },
+      {
+        "id": "carian-knights-sword",
+        "count": 2
+      },
+      {
+        "id": "swordhand-of-night-anna",
+        "count": 2
+      },
+      {
+        "id": "moonrithyll-carian-knight",
+        "count": 2
+      },
+      {
+        "id": "swordhand-of-night-jolan",
+        "count": 2
+      },
+      {
+        "id": "moongrum-carian-knight",
+        "count": 2
+      },
+      {
+        "id": "royal-knight-loretta",
+        "count": 1
+      },
+      {
+        "id": "lorettas-mastery",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-spinning-weapon",
+        "count": 1
+      },
+      {
+        "id": "raya-lucaria-knight",
+        "count": 2
+      },
+      {
+        "id": "gavel-of-haima",
+        "count": 1
+      },
+      {
+        "id": "abductor-virgin",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-hoarfrost-stomp",
+        "count": 2
+      },
+      {
+        "id": "carian-slicer",
+        "count": 2
+      },
+      {
+        "id": "rock-sling",
+        "count": 2
+      }
+    ],
+    "items": [
+      "eclat-etoile",
+      "pot-de-givre",
+      "crabe-bouilli"
+    ]
+  },
+  {
+    "id": "warrior_starter",
+    "kind": "starter",
+    "class": "Warrior",
+    "title": "Warrior Starter",
+    "hero": "hero_alexander",
+    "cards": [
+      {
+        "id": "ash-of-war-giant-hunt",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-barricade-shield",
+        "count": 2
+      },
+      {
+        "id": "hippopotamus",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-storm-blade",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-endure",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-shield-bash",
+        "count": 1
+      },
+      {
+        "id": "duelist-greataxe",
+        "count": 2
+      },
+      {
+        "id": "exile-soldier",
+        "count": 2
+      },
+      {
+        "id": "runebear",
+        "count": 2
+      },
+      {
+        "id": "commander",
+        "count": 2
+      },
+      {
+        "id": "horned-warrior",
+        "count": 2
+      },
+      {
+        "id": "living-jar",
+        "count": 2
+      },
+      {
+        "id": "sheep",
+        "count": 2
+      },
+      {
+        "id": "greatshield-soldier-ashes",
+        "count": 1
+      },
+      {
+        "id": "warrior-jar",
+        "count": 1
+      },
+      {
+        "id": "kaiden-sellsword",
+        "count": 2
+      },
+      {
+        "id": "lions-claw",
+        "count": 1
+      },
+      {
+        "id": "ash-of-war-storm-wall",
+        "count": 2
+      }
+    ],
+    "items": [
+      "boluses-stimulants",
+      "chair-exaltee",
+      "larme-de-larve"
+    ]
+  },
+  {
+    "id": "warrior_ai",
+    "kind": "adventure",
+    "class": "Warrior",
+    "title": "Warrior AI Deck",
+    "hero": "hero_nepheli",
+    "cards": [
+      {
+        "id": "bestial-vitality",
+        "count": 2
+      },
+      {
+        "id": "exile-soldier",
+        "count": 2
+      },
+      {
+        "id": "er_bear",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-savage-claws",
+        "count": 2
+      },
+      {
+        "id": "beast-claw",
+        "count": 2
+      },
+      {
+        "id": "misbegotten-warrior",
+        "count": 2
+      },
+      {
+        "id": "divine-beast-warrior",
+        "count": 2
+      },
+      {
+        "id": "dryleaf-dane",
+        "count": 2
+      },
+      {
+        "id": "gurranq-beast-clergyman",
+        "count": 1
+      },
+      {
+        "id": "giant-bat",
+        "count": 2
+      },
+      {
+        "id": "aspects-of-the-crucible-horns",
+        "count": 2
+      },
+      {
+        "id": "bestial-sling",
+        "count": 2
+      },
+      {
+        "id": "lions-claw",
+        "count": 2
+      },
+      {
+        "id": "duelist-greataxe",
+        "count": 2
+      },
+      {
+        "id": "ash-of-war-gravitas",
+        "count": 2
+      },
+      {
+        "id": "runebear",
+        "count": 1
+      }
+    ],
+    "items": [
+      "boluses-stimulants",
+      "chair-exaltee",
+      "larme-de-larve"
+    ]
+  }
+]
